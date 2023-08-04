@@ -1,0 +1,12 @@
+.box {
+    background-color: azure;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+}
+
+#board {
+    background-color: aliceblue;
+    border-radius: 10px;
+    border: 3px solid black;
+}
